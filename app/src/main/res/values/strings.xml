@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Splifftastic</string>
+    <string name="app_name2">created for Snoop Dogg</string>
+    <string name="som">Should we smoke one more?</string>
+    <string name="wti">What\'s the motherfucking time?</string>
+    <string name="sme">For sure nigga, we smoke weed everdaaaay!!</string>
+    <string name="gba">try/smoke again!</string>
+    <string name="soc">It\'s spliff o\'Clock!</string>
+
+    <string-array name="snoopLines">
+        <item>For sure nigga, we smoke weed everydaaaay!!</item>
+        <item>Yeeeeeeee for shizzle :)</item>
+        <item>So what we get drunk? So what we smoke weeed....</item>
+        <item>The D O double G always wants to smoke bruh</item>
+        <item>Is that broccoli in your cigarette bro?</item>
+        <item>I just wanna smoke and chill maaan</item>
+        <item>Put your Lighters up! Get high with me, fly with me!</item>
+        <item>Let\'s roll up some, let\'s blow up some...</item>
+    </string-array>
+
+    <string-array name="timeLines">
+        <item>It\'s spliff o\'Clock! </item>
+        <item>It\'s time to smoke some weeeeed!!</item>
+        <item>We smoke all day, why u even ask bro</item>
+        <item>It\'s half past Blunt bruh</item>
+        <item>Let\'s get high RIGHT NOW</item>
+        <item>Time to get stoned :D</item>
+        <item>Rise and shine, it\'s marijuana time!</item>
+        <item>Time to get high with me</item>
+        <item>Save the drama for your mama, it\'s time to smoke some marijuana</item>
+        <item>Wake &amp; Bake?</item>
+        <item>I love smoking weed after a long day of smoking weed...</item>
+        <item>A friend with weed is a friend indeed.</item>
+    </string-array>
+
+    <string-array name="pics">
+        <item>snoop_dogg.jpg</item>
+        <item>snoop2</item>
+        <item>snoop3</item>
+        <item>snoop4</item>
+        <item>snoop5</item>
+    </string-array>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_registierung">Registierung</string>
+    <string name="action_settings">Settings</string>
+
+
+</resources>
